@@ -7,7 +7,7 @@ int menu()
 {
 	int opc;
 	cout << " \t\tHW.02 Programming Fundamentals ";
-	cout << " \n\t\tSteven Jossue Achig Toapanta";
+	cout << " \n\t\tAlisson lisbeth caiza tacuri";
 	cout << "\n1. Plus of five numbers"
 	"\n2. Calculation of the average of 3 scores"
 	"\n3. Find a number in array {12,23,34,98,87,65,0}"
